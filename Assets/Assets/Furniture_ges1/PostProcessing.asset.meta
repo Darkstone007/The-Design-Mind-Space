@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f9c47d7e4d4984b09ae364f9b48c5b95
+timeCreated: 1503681115
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28237
+  packageName: Pack Gesta Furniture #1
+  packageVersion: 1.1
+  assetPath: Assets/Furniture_ges1/PostProcessing.asset
+  uploadId: 201094

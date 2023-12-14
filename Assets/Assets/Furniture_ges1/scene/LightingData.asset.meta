@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a3fd1166093d4bb3ab48f4ade1b8bca
+timeCreated: 1505420535
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 28237
+  packageName: Pack Gesta Furniture #1
+  packageVersion: 1.1
+  assetPath: Assets/Furniture_ges1/scene/LightingData.asset
+  uploadId: 201094
